@@ -1,0 +1,11 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+langchain==0.1.0
+langgraph==0.0.15
+langchain-google-genai==0.0.6
+yara-python==4.5.0
+regipy==2.4.0
+motor==3.3.2
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
